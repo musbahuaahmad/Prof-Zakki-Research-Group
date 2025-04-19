@@ -53,7 +53,7 @@ const publications: Publication[] = [
     title: 'Mass Spectrometry-Based Analyses of Carbon Nanodots: Structural Elucidation.',
     authors: 'Ahmad, M. A.; Sumarsih, S.; Chang, J.; Fahmi, M. Z.',
     journal: 'ACS Omega',
-    year: '2024',
+    year: 2024,
     volume: '9(19)',
     pages: '20720-20727',
     link: 'https://doi.org/10.1021/acsomega.4c01674',
